@@ -1,3 +1,5 @@
+package com.example.model;
+
 public class Account {
     private double balance = 0;
 

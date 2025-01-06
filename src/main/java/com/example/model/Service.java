@@ -1,3 +1,5 @@
+package com.example.model;
+
 public class Service {
     private String name;
     private String description;
